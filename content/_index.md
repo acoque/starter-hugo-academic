@@ -25,6 +25,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: publications
     content:
       title: Publications
       text: |-
@@ -34,7 +35,6 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
     design:
       columns: '2'
       view: citation
