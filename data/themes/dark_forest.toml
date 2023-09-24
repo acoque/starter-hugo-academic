@@ -1,0 +1,30 @@
+# Theme metadata
+name = "Dark Forest"
+
+[light]
+  # Primary
+  primary = "#3e984a"
+
+  # Menu
+  menu_primary = "#3e984a"
+  menu_text = "#fff"
+  menu_text_active = "#23572a"
+  menu_title = "#fff"
+
+  # Home sections
+  home_section_odd = "#fff"
+  home_section_even = "#f4faf5"
+
+[dark]
+  # Primary
+  primary = "#3e984a"
+
+  # Menu
+  menu_primary = "#3e984a"
+  menu_text = "rgba(241,249,242,0.6)"
+  menu_text_active = "#f1f9f2"
+  menu_title = "#fff"
+
+  # Home sections
+  home_section_odd = "#2c302d"
+  home_section_even = "#272a28"
