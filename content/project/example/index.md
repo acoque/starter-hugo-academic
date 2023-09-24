@@ -1,5 +1,4 @@
 ---
-slides: example
 url_pdf: ""
 date: 2023-09-24T16:35:46.663Z
 summary: Estimating Dissolved Organic Carbon (DOC) fluxes in tropical reservoirs
