@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-09-24
 type: landing
 
 sections:
@@ -49,6 +49,9 @@ sections:
         postcode: '13100'
         country: France
         country_code: FR
+      coordinates:
+        latitude: '43.5235'
+        longitude: '5.5105'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
