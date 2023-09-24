@@ -50,8 +50,8 @@ sections:
         country: France
         country_code: FR
       coordinates:
-        latitude: '43.5235'
-        longitude: '5.5105'
+        latitude: '43.5236'
+        longitude: '5.5131'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
